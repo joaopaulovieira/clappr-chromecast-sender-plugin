@@ -1,6 +1,6 @@
 {
   "name": "clappr-chromecast-sender-plugin",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A Chromecast Sender plugin for Clappr Player.",
   "keywords": [
     "clappr",
